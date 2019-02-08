@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ApplicationMetricsCore</name>
+    </assembly>
+    <members>
+        <!-- Badly formed XML comment ignored for member "M:ApplicationMetricsCore.Middlewares.Metrics.MetricsMiddleware.RequestHandle" -->
+    </members>
+</doc>
